@@ -2,4 +2,9 @@
 name = "think-dsp"
 version = "0.1.0"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "jupyterlab>=4.4.2",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "scipy>=1.15.3",
+]
