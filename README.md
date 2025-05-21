@@ -8,3 +8,7 @@ available [here](https://github.com/AllenDowney/ThinkDSP).
 - Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 - Install Python: `uv python install`
 - Install project dependencies: `uv sync`
+
+## Run
+
+- To run Jupyter Lab: `uv run jupyter lab`
