@@ -1,6 +1,7 @@
 # Think DSP
 
-Code for the [Think DSP](https://greenteapress.com/wp/think-dsp/) book.
+Code for the [Think DSP](https://greenteapress.com/wp/think-dsp/) book. The reference code for the "Think DSP" book is
+available [here](https://github.com/AllenDowney/ThinkDSP).
 
 ## Setup
 
